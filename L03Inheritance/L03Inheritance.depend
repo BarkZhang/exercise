@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1423495669 source:c:\users\administrator\documents\github\exercise\l03inheritance\main.cpp
+	<iostream>
+	"man.h"
+
+1423496060 c:\users\administrator\documents\github\exercise\l03inheritance\man.h
+	"People.h"
+
+1423495730 c:\users\administrator\documents\github\exercise\l03inheritance\people.h
+	<iostream>
+
+1423496032 source:c:\users\administrator\documents\github\exercise\l03inheritance\man.cpp
+	"man.h"
+
+1423495931 source:c:\users\administrator\documents\github\exercise\l03inheritance\people.cpp
+	"People.h"
+
