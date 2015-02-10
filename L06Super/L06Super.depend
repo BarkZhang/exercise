@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1423546537 source:c:\users\greedy\documents\github\exercise\l06super\main.cpp
+	<iostream>
+	"Man.h"
+
+1423546383 c:\users\greedy\documents\github\exercise\l06super\man.h
+	"People.h"
+
+1423545851 c:\users\greedy\documents\github\exercise\l06super\people.h
+	<iostream>
+
+1423546447 source:c:\users\greedy\documents\github\exercise\l06super\man.cpp
+	"man.h"
+
+1423545869 source:c:\users\greedy\documents\github\exercise\l06super\people.cpp
+	"People.h"
+
