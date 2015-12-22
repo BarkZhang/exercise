@@ -1,4 +1,4 @@
 exercise
 ========
 
-some code for test,learning,etc.
+cpp basic lessons
